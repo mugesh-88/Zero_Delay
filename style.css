@@ -18,14 +18,14 @@ body{
 }
 
 #timer{
-    font-size: 7rem;
+    font-size: 6rem;
     font-weight: 600;
     text-shadow: 2.5px 2px #f8a5c2;
     color: #f92672;
     width:620px;
     text-align: center;
-    margin-top: 40px auto;
-    margin-bottom: 30px;
+    margin-top: 30px auto;
+    margin-bottom: 80px;
 }
 
 #buttons{
@@ -64,7 +64,7 @@ button[disabled]{
     }
     #timer{
         font-size: 4.5rem;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
         width: 350px;
     }
     button{
